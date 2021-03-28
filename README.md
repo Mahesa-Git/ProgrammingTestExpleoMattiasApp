@@ -19,6 +19,7 @@ Instructions for building source code, executing application and run the two uni
 - Use the command: dotnet run
 
 *Run tests built using MSTest:
+- The tests are developed to test the Anagram-method (Problem 1)
 - Navigate to directory that ends with \ProgrammingTestExpleoMattias.UnitTests
 - Use the command: dotnet test --logger "console;verbosity=detailed"
  
